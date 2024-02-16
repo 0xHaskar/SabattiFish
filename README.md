@@ -1,4 +1,4 @@
-# SabattiFish {in development}
+# SabattiFish | Easy phishing {in development}
 ### !Warning!
 The software is presented for informational purposes only and is intended for reference only!
 By downloading the program, you agree that all actions are on your responsibility and conscience!
